@@ -1,5 +1,5 @@
-onnistuuko tämä gitin käyttö?
 Tarvittavat stepit Atom käytössä
  - .gitconfig lisätty ,jossa määritelty
      name =
      email =
+..ja siellä alareunassa on pieni 'Push' nappi =:o
